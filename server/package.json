@@ -2,5 +2,12 @@
   "dependencies": {
     "axios": "^1.7.7",
     "react-router-dom": "^6.26.2"
+  },
+
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
   }
 }
+
+
